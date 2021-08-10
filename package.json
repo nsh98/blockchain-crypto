@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsh98/blockchain-crypto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsh98/blockchain-crypto/issues"
+  },
+  "homepage": "https://github.com/nsh98/blockchain-crypto#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
